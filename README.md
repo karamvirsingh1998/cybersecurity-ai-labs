@@ -1,6 +1,5 @@
-#cybersecurity-ai-labs — Open-Source AI for Next-Gen Cyber Defense
+# Cybersecurity AI Labs
 
-cybersecurity-ai-labs is a community-driven, open-source project focused on building AI-powered cybersecurity tools, models, datasets, and automation workflows.
-The goal is to create a single, unified hub where developers, researchers, and security engineers can collaborate to build intelligent systems that protect digital infrastructure.
-
-This project aims to become the go-to open-source AI cybersecurity framework—easy to use, modular, and extensible.
+Cybersecurity AI Labs is an open-source project focused on exploring how artificial intelligence can enhance cybersecurity.  
+This repository will include simple AI models, security automation ideas, learning resources, and experimental tools for detecting threats like malware, phishing, and suspicious activity.  
+The goal is to create a community-friendly space where anyone can learn, share, and contribute to building smarter, AI-driven security solutions.
